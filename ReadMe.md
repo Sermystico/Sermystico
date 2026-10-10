@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hey, I'm a Computer Engineering student at TIET passionate about Software Engineering, Backend Development, and AI/GenAI.<br><br>
+Hey, I'm a Computer Engineering student at TIET passionate about Software Engineering, Backend Development, and AI/GenAI.<br>
 
-I enjoy designing clean, scalable backend architectures, building reliable distributed systems, and developing APIs and AI-powered applications.<br><br>
+I enjoy designing clean, scalable backend architectures, building reliable distributed systems, and developing APIs.<br>
 
-Currently exploring LLMs and RAG systems to build intelligent, reliable, and practical software solutions.<br><br>
+Currently exploring LLMs and RAG systems to build intelligent, reliable, and practical software AI powered solutions.<br>
 
 Always learning, building, and turning ideas into working products.
 
